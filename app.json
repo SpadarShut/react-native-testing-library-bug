@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn-tl-bug",
+    "slug": "rn-tl-bug",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn-tl-bug"
+}
